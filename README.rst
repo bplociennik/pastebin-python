@@ -1,6 +1,9 @@
 Python pastebin wrapper
 =======================
 
+.. image:: https://travis-ci.org/vThaian/pastebin-python.svg?branch=master
+    :target: https://travis-ci.org/vThaian/pastebin-python
+
 Simple python wrapper to work with https://pastebin.com/ service. Library are using pastebin API available `here <https://pastebin.com/api>`_.
 
 Basic example:
